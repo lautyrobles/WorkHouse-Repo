@@ -355,7 +355,7 @@ body::-webkit-scrollbar-thumb {
 
 .send-icon p {
     font-family: poppins;
-    color: darkslategray;
+    color: white;
     font-size: 14px;
 }
 
@@ -528,6 +528,7 @@ body::-webkit-scrollbar-thumb {
     border-radius: 5px;
     color: white;
     font-size: 14px;
+    font-family: poppins;
 }
 
 .job {
